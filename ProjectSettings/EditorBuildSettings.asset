@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hospital lvl1.unity
     guid: 4a1baf3d0ff329d42b22bdacfddb71cf
+  - enabled: 1
+    path: Assets/Scenes/Home lvl2.unity
+    guid: d16940dda35fa6a47b13236058fe7743
   m_configObjects: {}
