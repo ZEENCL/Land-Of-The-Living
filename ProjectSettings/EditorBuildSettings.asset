@@ -11,7 +11,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hospital lvl1.unity
     guid: 4a1baf3d0ff329d42b22bdacfddb71cf
+  - enabled: 0
+    path: Assets/Scenes/Home lvl2 (old).unity
+    guid: d16940dda35fa6a47b13236058fe7743
   - enabled: 1
     path: Assets/Scenes/Home lvl2.unity
-    guid: d16940dda35fa6a47b13236058fe7743
+    guid: 11c1e985ed80cdf4c8793c932b9dc7c2
+  - enabled: 1
+    path: Assets/Scenes/School lvl3.unity
+    guid: cc57546366525f546b6ea81d70dbbf8d
+  - enabled: 1
+    path: Assets/Scenes/Park lvl4.unity
+    guid: 8d176a542b180aa478d06ab28c161d27
+  - enabled: 1
+    path: Assets/Scenes/Career lvl5.unity
+    guid: b34408b3b3e713c47a6883e9f72c1269
+  - enabled: 1
+    path: Assets/Scenes/Marriage lvl6.unity
+    guid: 9050c361b4ef9e04291fbc6616c94b37
+  - enabled: 1
+    path: Assets/Scenes/Hospital lvl7.unity
+    guid: 73fc555f2d4464b4c94a9ceb2109473e
+  - enabled: 1
+    path: Assets/Scenes/Home lvl8.unity
+    guid: a241dfbbbd3bfe54ca531758f9b548bb
   m_configObjects: {}
